@@ -9,4 +9,6 @@ All stations contain graphics (using kitPx, kitPxN4Svg, and SVGs from Material D
 
 These stations will get you roughly 80% there. There will be some modifications for alarms, and some tweaks to sequences of opertations. 
 
-The VAV_AHU contains a Chilled Water VAV System, but could easily be converted to DX with relative ease.
+The VAV AHU can be configured for Chilled Water, Hot Water, DX Cool, Electirc Heat, Return Fan with tracking or Static Pressure. 
+
+More stations to come over the next few weeks!
